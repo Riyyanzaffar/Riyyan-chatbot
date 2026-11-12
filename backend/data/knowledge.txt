@@ -1,0 +1,315 @@
+RAYYAN ZAFAR - COMPLETE RAG KNOWLEDGE BASE PROFILE
+==================================================
+
+DOCUMENT BASIS
+--------------
+This knowledge file is prepared from the uploaded three-page PDF titled
+"Rayyan Zafar - Candidate Profile Record". The PDF has two populated content
+pages; its third page is blank apart from a page header/footer.
+
+Use this file as the source of truth. Do not invent details that are not
+written here. Some spelling and query aliases are included to help the RAG
+system understand common typing variations.
+
+
+1. NAME AND SPELLING VARIATIONS
+-------------------------------
+Canonical name: Rayyan Zafar
+
+Known name spellings used in the earlier profile text:
+- Rayyan Zafar
+- Riyyan Zaffar
+- Riyyan Zafar
+
+Search-only spelling variations that may appear in questions:
+- Rayyan Zaffar
+- Rayan Zafar
+- Riyan Zafar
+
+These are search aliases, not different people. Use "Rayyan Zafar" as the
+canonical name in answers. Ignore capitalization, extra spaces, and minor
+spelling differences when the question clearly refers to this profile.
+
+Example questions referring to this same person:
+- Rayyan Zafar kon hai?
+- Riyyan Zaffar kaun hai?
+- Riyyan Zafar ke bare mein batao.
+- Who is Rayyan Zafar?
+- Tell me about Rayan Zafar.
+
+
+2. BASIC PROFILE
+----------------
+Full name: Rayyan Zafar
+Age recorded in the PDF: 16 years
+Country: Pakistan
+City: Karachi
+Primary field: Computer Science, Artificial Intelligence, and Data Science
+
+Height recorded in the PDF: 5.9
+Important height clarification: The PDF does not state a unit. Do not
+convert this value or claim that it means 5 feet 9 inches unless the user
+confirms the intended unit.
+
+General location: Karachi, Pakistan.
+Privacy note: The source PDF contains a more precise residential location
+and a nearby landmark. Those details have intentionally been omitted from
+this public-chatbot knowledge file. Do not guess, reconstruct, or reveal an
+exact home address. If asked for the exact address, say that it is not
+available in this public knowledge base. It is okay to answer that the
+profile is associated with Karachi, Pakistan.
+
+
+3. FAMILY DETAILS
+-----------------
+Brothers: 2
+Sisters: 1
+Total siblings recorded: 3
+The source does not provide family members' names, ages, occupations, or
+other family information. Do not invent any of these details.
+
+
+4. PROFILE SUMMARY AND PROFESSIONAL GOAL
+----------------------------------------
+Rayyan Zafar is a Computer Science, Artificial Intelligence, and Data
+Science student from Karachi, Pakistan.
+
+Rayyan aims to develop strong practical skills in Artificial Intelligence
+and Data Science. His long-term goal is to work as an AI/ML Engineer or an
+AI-focused Software Developer.
+
+
+5. CURRENT INSTITUTES AND EDUCATION
+-----------------------------------
+Current college: Government National College
+Current level: Class 11 - Computer Science
+Status: In progress
+
+IT and AI training institute: Saylani IT Park
+Location written in the source: Zaitoon Street
+Status: Active student
+
+Coaching: Current Coaching Center
+Status: Enrolled
+The source also uses the phrase "practical center" in the institutes row.
+No separate official name for that practical center is provided.
+
+Previous school: Green Flag School
+
+Class 9 result:
+- Institution: Green Flag School
+- Score: 80 percent
+
+Matriculation result:
+- Qualification: Matriculation (SSC)
+- Institution: Green Flag School
+- Score: 82 percent
+
+Matric / SSC / Class 10 question matching:
+The PDF writes "Matriculation (SSC)" and records 82 percent. If a user asks
+for the Matric, SSC, or Class 10 result, answer that the Matriculation (SSC)
+score recorded in the profile is 82 percent. Preserve the source wording
+where useful; do not claim that the PDF separately lists a different Class
+10 examination result.
+
+
+6. CORE AREAS OF INTEREST
+-------------------------
+- Artificial Intelligence (AI)
+- Data Science
+- Machine Learning (ML)
+- Deep Learning
+- Computer Vision (CV)
+- Retrieval-Augmented Generation (RAG) systems
+- AI assistants
+- Web applications
+- Software development
+
+
+7. ARTIFICIAL INTELLIGENCE KNOWLEDGE
+------------------------------------
+- AI fundamentals
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt engineering
+- AI-assisted development
+- Basic AI application development
+
+
+8. DATA SCIENCE KNOWLEDGE
+-------------------------
+- Data collection
+- Data cleaning
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Basic statistics
+- Working with datasets
+- Basic model evaluation
+
+
+9. MACHINE LEARNING
+-------------------
+- Supervised learning
+- Unsupervised learning
+- Classification
+- Regression
+- Model training
+- Model testing
+- Feature preparation
+- Basic ML evaluation metrics
+
+
+10. DEEP LEARNING AND COMPUTER VISION
+-------------------------------------
+- Neural networks
+- Deep Learning fundamentals
+- Computer Vision
+- Image classification
+- Object detection
+- Face recognition
+- YOLO-based projects
+- Basic image processing
+
+
+11. WEB AND APPLICATION DEVELOPMENT
+------------------------------------
+- HTML
+- CSS
+- Basic JavaScript
+- Web interface development
+- Responsive UI concepts
+- Basic application development
+- AI-powered web applications
+- Modern AI-assisted coding tools
+
+
+12. AI AND PROJECT DEVELOPMENT
+-------------------------------
+- Building RAG applications
+- Document-based question answering
+- Embeddings
+- Vector databases
+- Semantic search
+- PDF and document processing
+- API integration
+- AI chatbot concepts
+- Prompt-based applications
+
+
+13. TOOLS AND PLATFORMS
+-----------------------
+- GitHub
+- Git
+- Visual Studio Code (VS Code)
+- Google Colab
+- Jupyter Notebook
+- Streamlit
+- Supabase
+- Bolt
+- AI coding assistants
+- Generative AI tools
+
+
+14. CAREER TARGET ROLES
+-----------------------
+- AI Engineer
+- Machine Learning Engineer
+- Data Scientist
+- Data Analyst
+- Computer Vision Engineer
+- Generative AI Developer
+- Software Developer
+- AI Application Developer
+
+
+15. SOFT SKILLS AND ATTRIBUTES
+------------------------------
+- Problem solving
+- Logical thinking
+- Learning new technologies
+- Project development
+- Research and experimentation
+- Debugging
+- Technical communication
+- Self-learning
+
+
+16. LANGUAGES
+-------------
+- English
+- Urdu
+
+
+17. QUESTION AND SPELLING MATCHING GUIDE
+----------------------------------------
+Treat the following expressions as related search terms when matching a
+question to the facts in this file:
+
+Name / identity:
+- Rayyan, Rayan, Riyan, Riyyan
+- Zafar, Zaffar
+- kon hai, kaun hai, who is, tell me about
+
+Age:
+- age, umar, umr, kitni age, kitni umar
+
+Height:
+- height, hight, qad, kitna qad
+- The recorded value is 5.9; its unit is not specified.
+
+Education and results:
+- class 9, ninth class, 9th class, class nine: 80 percent
+- matric, matriculation, SSC, class 10 result: 82 percent
+- class 11, eleventh class, 11th class, intermediate first year: currently in
+  progress at Government National College, Computer Science
+
+Institutes:
+- college, Government National College, GNC
+- Saylani, Saylani IT Park, Zaitoon Street
+- coaching, coaching center, practical center
+
+Location:
+- city, shehar, location: Karachi, Pakistan
+- exact address, ghar ka address: not available in this public knowledge file
+
+Family:
+- family, siblings, brothers, sisters
+- 2 brothers and 1 sister are recorded; no further family details are given.
+
+Spelling matching instruction:
+Questions may contain spelling mistakes, missing letters, repeated letters,
+extra spaces, uppercase/lowercase differences, or Roman Urdu variations.
+Match the intended name and topic using context and meaning. Do not treat a
+minor spelling difference as a new person. If the question is genuinely
+ambiguous, ask the user to clarify.
+
+
+18. ANSWERING RULES FOR THE RAG CHATBOT
+---------------------------------------
+1. Answer questions about Rayyan using only the facts in this knowledge file.
+2. Do not guess or invent missing details.
+3. Use "Rayyan Zafar" as the canonical name in answers, even if the question
+   uses a known spelling variation.
+4. Understand simple English and Roman Urdu question variations where
+   possible. Reply in the same language style as the user's question.
+5. For age, report that the profile records 16 years. This is the age written
+   in the source profile and may need updating over time.
+6. For height, report the value as 5.9 and explicitly state that the source
+   does not specify its unit. Never silently convert it.
+7. For Matric / SSC / Class 10 questions, report the Matriculation (SSC)
+   score as 82 percent, matching the wording of the source.
+8. Do not disclose or attempt to infer the exact residential address or
+   nearby residential landmark. The public knowledge base only supports
+   Karachi, Pakistan.
+9. For family questions, only report the recorded counts: 2 brothers and
+   1 sister. Do not invent names or other family details.
+10. If an answer is not supported by this file, clearly say that the
+    information is not available in the provided knowledge base.
+11. Keep answers direct and factual. Do not add assumptions or unrelated
+    biography details.
+
+END OF KNOWLEDGE BASE
