@@ -5,6 +5,10 @@ import streamlit as st
 
 from backend.rag import answer_question
 from backend.config import APP_TITLE
+from backend.vector_store import index_exists, build_index
+from backend.loader import load_documents
+from backend.chunker import chunk_documents
+from backend.config import DATA_DIR
 
 # ----------------------------------------------------------------------------
 # Config
@@ -69,6 +73,23 @@ st.set_page_config(
     page_icon=str(LOGO_PATH) if LOGO_PATH else "💬",
     layout="centered",
 )
+
+# ----------------------------------------------------------------------------
+# Prepare knowledge base on first cloud startup
+# ----------------------------------------------------------------------------
+if not index_exists():
+    with st.spinner("Preparing knowledge base... This may take a few minutes."):
+        documents = load_documents(DATA_DIR)
+        if not documents:
+            st.error("No knowledge-base documents found in backend/data/.")
+            st.stop()
+
+        chunks = chunk_documents(documents)
+        if not chunks:
+            st.error("No text chunks were created from the knowledge base.")
+            st.stop()
+
+        build_index(chunks)
 
 # ----------------------------------------------------------------------------
 # Styling
