@@ -5,3 +5,4 @@ sentence-transformers
 pypdf
 numpy
 torch
+Pillow
